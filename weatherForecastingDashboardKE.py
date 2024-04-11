@@ -15,7 +15,7 @@ st.set_page_config(layout="wide", initial_sidebar_state="expanded", page_title='
 #figure_show = selected_points = plotly_events(figure)
 
 # Loading the available data and overview
-path = "/home/gk/Projects/WeatherForcasting/weatherDataSet.csv"
+path = ".../weatherDataSet.csv"
 st.sidebar.header('Weather Forecasting KE')
 st.sidebar.write('''This is a Weather Forecasting App, that uses historical data of Nairobi, Kenya. The data dates back 2023 to ...''')
 

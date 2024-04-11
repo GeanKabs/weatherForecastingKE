@@ -1,0 +1,9 @@
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+plotly
+prophet
+streamlit_plotly_events
+plotly.express
